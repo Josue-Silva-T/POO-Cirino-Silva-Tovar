@@ -1,0 +1,31 @@
+Ejercicio 1: Favor de averiguar y anotar en sus apuntes, cuantas palabaras reservadas hay en Python, c, c++ y java
+jdk8 y jdk9. Y anote las 5 urls.
+
+~Python:
+En total son 35 palabras reservadas.
+
+~C++:
+En total son 48 palabras reservadas.
+
+~C:
+En total son 33 palabras reservadas.
+
+~Java jdk8:
+En total son 50 palabras reservadas.
+
+~Java jdk9:
+En total son 53 palabras reservadas.
+
+https://es.wikibooks.org/wiki/Python/Generalidades/Palabras_reservadas,_operadores_y_s%C3%ADmbolos_del_lenguaje#:~:
+text=Python%2FGeneralidades%2FPalabras%20reservadas%2C%20operadores%20y%20s%C3%ADmbolos%20del%20lenguaje,-Idioma&te
+xt=En%20total%20son%2035%20palabras,con%20los%20siguientes%20operadores%20aritm%C3%A9ticos.
+
+https://www.ibm.com/docs/es/developer-for-zos/14.2?topic=programs-c-reserved-keywords
+
+https://www.mhe.es/universidad/informatica/8448198441/archivos/apendice_general_3.pdf
+
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html
+
+https://docs.oracle.com/javase/9/
+
+
